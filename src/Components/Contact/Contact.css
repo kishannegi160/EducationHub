@@ -4,6 +4,7 @@
     max-width: 905;
     display: flex;
     justify-content: space-between;
+    scroll-margin-top: 100px;
 
 }
 .contact-col{

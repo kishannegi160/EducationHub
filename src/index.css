@@ -39,3 +39,6 @@ a{
     background: #212Ea0;
     color: #fff;
 }
+html {
+    scroll-behavior: smooth;
+}
